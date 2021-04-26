@@ -20,7 +20,7 @@
 
 <!--    版本号写进去-->
     <properties>
-        <commons.version>2.5</commons.version>
+        <commons.version>2.7</commons.version>
     </properties>
 
 <!--可能会用到的包-->
